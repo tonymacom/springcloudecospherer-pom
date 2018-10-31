@@ -14,5 +14,7 @@
     <module>app-one</module>
     <module>app-two</module>
     <module>base-filter</module>
+    <module>config-server</module>
+    <module>springcloudecospherer-pom</module>
   </modules>
 </project>
