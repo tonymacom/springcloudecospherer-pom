@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.tony.unit</groupId>
-  <artifactId>springcloud-ecosphere</artifactId>
+  <artifactId>springcloudecosphere</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
@@ -15,6 +15,5 @@
     <module>app-two</module>
     <module>base-filter</module>
     <module>config-server</module>
-    <module>springcloudecospherer-pom</module>
   </modules>
 </project>
